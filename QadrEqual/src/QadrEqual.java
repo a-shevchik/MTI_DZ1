@@ -1,3 +1,6 @@
+//Задача 1
+//Вычисление корней квадратного уравнения
+
 import java.util.Scanner;
 
 public class QadrEqual {

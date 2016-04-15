@@ -1,4 +1,5 @@
-
+//Задача 2
+//Вывод в консоль всех простых чисел от 1 до 1000
 public class PrimeNum {
 	public static void main(String[] args) {
 		//Используется алгоритм "Перебор делителей"

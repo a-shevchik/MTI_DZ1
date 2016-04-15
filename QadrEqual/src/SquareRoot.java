@@ -1,3 +1,5 @@
+//Задача 3
+//Вычисление квадратного корня с помощью арифметических операций "+" и "-"
 import java.util.Scanner;
 
 public class SquareRoot {
